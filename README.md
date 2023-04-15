@@ -76,7 +76,7 @@
 
 <br/>
 
-[![Git Stars](https://git-stars.com/share/embed/haithemmihoubi.svg)](https://git-stars.com/user/medamineriahi2023)
+[![Git Stars](https://git-stars.com/share/embed/medamineriahi2023.svg)](https://git-stars.com/user/medamineriahi2023)
 
 
 
