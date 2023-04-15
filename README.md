@@ -112,14 +112,14 @@
   
  ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=medamineriahi2023&layout=compact&theme=algolia" alt="haithem" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=medamineriahi2023&layout=compact&theme=algolia" alt="medamineriahi2023" /></a> </p>
   
   
   
 ## Contact me 📫:
 [![Gmail Badge](https://img.shields.io/badge/-medamine.riahi@esprit.tn-red?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:medamine.riahi@esprit.tn)](mailto:medamine.riahi@esprit.tn)
-[![Linkedin Badge](https://img.shields.io/badge/-haithemMihoubi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haithem-mihoubi-773b01191/)](https://www.linkedin.com/in/haithem-mihoubi-773b01191/)
-[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=21653440357)
+[![Linkedin Badge](https://img.shields.io/badge/-medamineriahi2023-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haithem-mihoubi-773b01191/)](https://www.linkedin.com/in/haithem-mihoubi-773b01191/)
+[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=21656801710)
 
 
 
