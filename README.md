@@ -25,8 +25,7 @@
 
 - 📫 How to reach me **medamine.riahi@esprit.tn**
 
-<a href="https://app.daily.dev/medamineriahi2023"><img src="https://api.daily.dev/devcards/81c9ebe336b941a2a2f9285e9c0a95a6.png?r=oxe" width="400" alt="Haithem Mihoubi's Dev Card"/></a>
-
+<a href="https://app.daily.dev/medaminer"><img src="https://api.daily.dev/devcards/4e37d0d3635e46e19476e7ae8812672c.png?r=8gy" width="400" alt="Riahi Med Amine's Dev Card"/></a>
 
 ## 🔧 Things I code with
 <p>
