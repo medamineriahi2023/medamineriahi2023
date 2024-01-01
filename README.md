@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently Studying **Computer Science**
 
-- 🌱 I’m currently learning **Angular,Spring boot,Reactjs,laravel,javascript,DevOPS,Firebase**
+- 🌱 I’m currently learning **Angular,Spring boot, Quarkus, React, React-Native, Keycloak, Alfresco**
 
 - 👯 I’m looking to collaborate **in projects**
 
@@ -23,7 +23,7 @@
 
 - 💬 Ask me about **Angular,Spring Boot,ReactJs,DevOps **
 
-- 📫 How to reach me **medamine.riahi@esprit.tn**
+- 📫 How to reach me **riahimedaminer@gmail.com**
 
 <a href="https://app.daily.dev/medaminer"><img src="https://api.daily.dev/devcards/4e37d0d3635e46e19476e7ae8812672c.png?r=8gy" width="400" alt="Riahi Med Amine's Dev Card"/></a>
 
