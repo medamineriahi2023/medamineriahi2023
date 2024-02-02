@@ -25,7 +25,6 @@
 
 - 📫 How to reach me **riahimedaminer@gmail.com**
 
-<a href="https://app.daily.dev/medaminer"><img src="https://api.daily.dev/devcards/4e37d0d3635e46e19476e7ae8812672c.png?r=8gy" width="400" alt="Riahi Med Amine's Dev Card"/></a>
 
 ## 🔧 Things I code with
 <p>
